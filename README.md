@@ -4,6 +4,8 @@
 Edits save files for FNAF 1, 2, and 3. 
 This program is still in alpha which may contain some bugs, make sure you're using it carefully.
 
+Make sure your FNAF game is only from steam and not from other websites.
+
 Todo (Deadline: 4/30):
 - [ ] Add FNAF 4, SL, 6, UCN
 - [ ] Make UI better
